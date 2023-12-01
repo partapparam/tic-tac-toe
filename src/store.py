@@ -1,0 +1,5 @@
+store = {
+    'games': {},
+    'boards': {},
+    'players': {},
+}
